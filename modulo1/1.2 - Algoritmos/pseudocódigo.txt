@@ -1,0 +1,8 @@
+Solução com pseudocódigo
+Início;
+Leia n; 
+n1 = n-1;
+n2 = 10-n;
+r = (n1  x  10) + 10;
+Imprima r;
+Fim;
